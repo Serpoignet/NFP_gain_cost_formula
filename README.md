@@ -19,3 +19,8 @@ The other png files are the outputs calculated with the given parameters. They a
 
 ### env.yml
 env.yml is the extracted anaconda python environment the code was run on. It is provided for convenience but the exact version are not necessary. (see conda-cheatsheet for reference on how to use)
+
+## How to run the code
+Install all necessary librairies, see [Requirements](##Requirements).
+Use an interactive python IDE such as jupyter notebooks (included in the anaconda environment), or VS Code, to open the code file.
+Use the "Run all" cells option.
